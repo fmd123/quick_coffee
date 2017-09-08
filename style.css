@@ -1,1 +1,40 @@
+body:{
+  margin:0;
+  min-height:100%
 
+
+}
+
+
+h1 {
+  color: cornflowerblue;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  font-size: 2em;
+}
+
+#what {
+  background-color: orange;
+
+  margin: 50px;
+}
+
+p{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+img{
+  display: block;
+  width:250px;
+  height:auto;
+  display: block;
+  text-align: center;
+  margin: auto;
+  transform:rotate(270deg);
+  border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+
+}
